@@ -17,11 +17,11 @@ In addition to the hardware, we are developing the OrtizIDE, an integrated devel
 ## Join Us on the Robotics Journey
 
 **Pilot Schools Wanted!**
-We are actively seeking pilot schools to participate in testing and refining our OrtizBot V1. If your school is interested in being part of this exciting initiative, please contact us at [pilots@ortizbot.com](mailto:pilots@ortizbot.com).
+We are actively seeking pilot schools to participate in testing and refining our OrtizBot V1. If your school is interested in being part of this exciting initiative, [Pilot school information page.](/pilotschool).
 
 Stay tuned for updates and announcements as we progress with our projects. We are excited to bring affordable robotics solutions to schools and foster a new era of technological education.
 
-For more information, feel free to contact us at [info@ortizbot.com](mailto:info@ortizbot.com).
+For more information, feel free to contact us.
 
 ---
 **OrtizBot | Bringing Robotics to Schools on a Budget**
