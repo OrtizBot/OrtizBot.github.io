@@ -8,7 +8,7 @@ OrtizBot is committed to unlocking affordable robotics programs for schools with
 
 ### OrtizBot V1
 
-We are currently working on the OrtizBot V1, a cost-effective robotics kit designed to enable schools with lesser budgets to participate in robotics programs. Our goal is to release the OrtizBot V1 in November 2024, offering an accessible and innovative solution for schools.
+We are currently working on the OrtizBot V1, a cost-effective robotics kit designed to enable schools with lesser budgets to participate in robotics programs. Our goal is to release the OrtizBot V1 in November 2024, offering an accessible and innovative solution for schools. The current list of parts is availabe [here](/V1).
 
 ### OrtizIDE
 
