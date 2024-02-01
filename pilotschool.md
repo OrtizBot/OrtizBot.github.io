@@ -48,9 +48,9 @@ Schools will be selected based on their total points. As the project progresses,
 
 ## Application Process
 
-We will be examining each school on a case-by-case basis. If you are a school administrator, please fill out the [Administrator Application Form](#) to express your school's interest in becoming a pilot school.
+We will be examining each school on a case-by-case basis. If you are a school administrator, please fill out the [Administrator Application Form](/SchoolAdminApplication.pdf.pdf) to express your school's interest in becoming a pilot school.
 
-If you are a student interested in getting your school involved, please fill out the [Student Application Form](#) and encourage your school's administration to apply.
+If you are a student interested in getting your school involved, please fill out the [Student Application Form](/StudentApplication.pdf.pdf) and encourage your school's administration to apply.
 
 **Note:** Email information for inquiries will be provided at a later date. Please check back for updates.
 
