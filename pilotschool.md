@@ -53,15 +53,7 @@ We will be examining each school on a case-by-case basis. If you are a school ad
 If you are a student interested in getting your school involved, please fill out the [Student Application Form](/StudentApplication.pdf.pdf) and encourage your school's administration to apply.
 
 ## Submitting your application.
-Please fill out this form, then we will give you more information regarding how to submit.
-<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/embed/v2.js"></script>
-<script>
-  hbspt.forms.create({
-    region: "na1",
-    portalId: "45137172",
-    formId: "2e26fb2e-846d-42f0-96e9-00b2e2ea1cb5"
-  });
-</script>
+Please stay tuned for updates regarding submission of your application.
 
 Thank you for considering OrtizBot V1 for your school's robotics program!
 
