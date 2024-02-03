@@ -83,12 +83,7 @@ Welcome to the OrtizBot Challenge - Block and Score! This manual will guide you 
 - **Penalties:**
   - Deductions for incorrect color identification or scoring.
 
-## Testing and Iteration
 
-Before the official competition, conduct thorough testing to ensure fairness and balance in the game. Adjust the level of difficulty based on the capabilities of the robots.
 
-## Conclusion
 
-The ColorBot Challenge - Block and Score is a thrilling game that combines color identification, strategic decision-making, and precise movement. Have fun building, testing, and competing in this colorful robotic adventure! May the most skillful and efficient robot emerge as the ultimate ColorBot champion!
 
-Feel free to adapt the rules, scoring system, and challenges to better suit your preferences and the capabilities of the robots you are working with.
