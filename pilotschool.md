@@ -2,7 +2,7 @@
 
 ## Selection Criteria
 
-The selection of pilot schools for the OrtizBot V1 project is based on a 10-point system, considering the following categories:
+The selection of pilot schools for the OrtizBot V1 project is based on a point system, considering the following categories:
 
 ### 1. Age of Students
 
@@ -53,8 +53,7 @@ We will be examining each school on a case-by-case basis. If you are a school ad
 If you are a student interested in getting your school involved, please fill out the [Student Application Form](/StudentApplication.pdf.pdf) and encourage your school's administration to apply.
 
 ## Submitting your application.
-Please stay tuned for updates regarding submission of your application.
-
+To submit your application, please send it to our temporary email ortizroboticskit(at)gmail(dot)com.
 Thank you for considering OrtizBot V1 for your school's robotics program!
 
 ---
