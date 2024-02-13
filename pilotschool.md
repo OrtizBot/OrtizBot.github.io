@@ -17,7 +17,7 @@ The age range of students in a school is a key factor in ensuring that the Ortiz
 Proximity to the project office is considered for logistical efficiency and support.
 
 - 0 points: Beyond 10 kilometers.
-- 2 points: 5 to 10 kilometers.
+- 3 points: 5 to 10 kilometers.
 - 5 points: Within 5 kilometers of the project office.
 
 ### 3. Interest in Technology
